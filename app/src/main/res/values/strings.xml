@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Конвертируй просто!</string>
+    <string name="default_value">0</string>
+    <string name="search_toolbar">Выбрать валюту</string>
+    <string name="close_dialog">Закрыть</string>
+    <!-- Currency names-->
+    <string name="CAD">Канадский Доллар</string>
+    <string name="HKD">Гонконгский доллар</string>
+    <string name="ISK">Исландская крона</string>
+    <string name="PHP">Филиппинское песо</string>
+    <string name="DKK">Датская крона</string>
+    <string name="CZK">Чешская крона</string>
+    <string name="GBP">Фунт стерлингов</string>
+    <string name="RON">Румынский лей</string>
+    <string name="SEK">Шведская крона</string>
+    <string name="IDR">Индонезийская рупия</string>
+    <string name="INR">Индийская рупия</string>
+    <string name="BRL">Бразильский реал</string>
+    <string name="RUB">Российский рубль</string>
+    <string name="HRK">Хорватская куна</string>
+    <string name="JPY">Японская иена</string>
+    <string name="THB">Тайский бат</string>
+    <string name="CHF">Швейцарский франк</string>
+    <string name="EUR">Евро</string>
+    <string name="MYR">Малайзийский ринггит</string>
+    <string name="BGN">Болгарский лев</string>
+    <string name="TRY">Турецкая лира</string>
+    <string name="CNY">Китайский юань</string>
+    <string name="NOK">Норвежская крона</string>
+    <string name="NZD">Новозеландский доллар</string>
+    <string name="ZAR">Южноафриканский рэнд</string>
+    <string name="USD">Доллар США</string>
+    <string name="MXN">Мексиканское песо</string>
+    <string name="SGD">Сингапурский доллар</string>
+    <string name="AUD">Австралийский доллар</string>
+    <string name="ILS">Израильский шекель</string>
+    <string name="KRW">Южнокорейская вона</string>
+    <string name="PLN">Польский злотый</string>
+    <!-- Currency names-->
+</resources>
